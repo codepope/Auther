@@ -1,12 +1,4 @@
 {
-    "app_id": "auther-xywgc",
     "config_version": 20180301,
-    "name": "Auther",
-    "location": "IE",
-    "deployment_model": "GLOBAL",
-    "security": {},
-    "hosting": {
-        "enabled": true,
-        "app_default_domain": "auther-xywgc.mongodbstitch.com"
-    }
+    "security": {}
 }

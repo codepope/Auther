@@ -1,9 +1,4 @@
 {
     "app_id": "auther-xywgc",
-    "config_version": 20180301,
-    "security": {},
-    "hosting": {
-        "enabled": true,
-        "app_default_domain": "auther-xywgc.mongodbstitch.com"
-    }
+    "config_version": 20180301
 }
